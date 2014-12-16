@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwipeDismissListView/SwipeDismissListViewTouchListener.cs">
+    <Files>
+      <File FileName="SwipeDismissListView/MainActivity.cs" Line="25" Column="25" />
+      <File FileName="SwipeDismissListView/SwipeDismissListViewTouchListener.cs" Line="48" Column="48" />
+      <File FileName="SwipeDismissListView/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="SwipeDismissListView/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="SwipeDismissListView/UndoBarController.cs" Line="4" Column="4" />
+      <File FileName="SwipeDismissListView/Resources/drawable/undobar_button.xml" Line="1" Column="1" />
+      <File FileName="SwipeDismissListView/Resources/values/styles.xml" Line="1" Column="1" />
+      <File FileName="SwipeDismissListView/Resources/values/integers.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwipeDismissListView MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
